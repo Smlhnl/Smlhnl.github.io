@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/2024/09/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E2%80%9C/"/>
+      <url>/2024/09/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E2%80%9C/</url>
+      
+        <content type="html"><![CDATA[<h2 id="8-文章置顶与封面"><a href="#8-文章置顶与封面" class="headerlink" title="8.文章置顶与封面"></a>8.文章置顶与封面</h2><ol><li><p>你可以直接在文章的front-matter区域里添加sticky: 1属性来把这篇文章置顶。数值越大，置顶的优先级越大。</p></li><li><p>文章的markdown文档上，在Front-matter添加cover，并填上要显示的图片地址。如果不配置cover，可以设置显示默认的cover；如果不想在首页显示cover，可以设置为false。<br><strong>修改主题配置文件_config.butterfly.yml。</strong></p></li></ol><p><code>cover:</code></p><h1 id="是否显示文章封面"><a href="#是否显示文章封面" class="headerlink" title="是否显示文章封面"></a>是否显示文章封面</h1><p>  index_enable: true<br>  aside_enable: true<br>  archives_enable: true</p><h1 id="封面显示的位置"><a href="#封面显示的位置" class="headerlink" title="封面显示的位置"></a>封面显示的位置</h1><h1 id="三个值可配置-left-right-both"><a href="#三个值可配置-left-right-both" class="headerlink" title="三个值可配置 left , right , both"></a>三个值可配置 left , right , both</h1><p>  position: both</p><h1 id="当没有设置cover时，默认的封面显示"><a href="#当没有设置cover时，默认的封面显示" class="headerlink" title="当没有设置cover时，默认的封面显示"></a>当没有设置cover时，默认的封面显示</h1><p>  default_cover:<br>当配置多张图片时，会随机选择一张作为cover，此时写法应为：</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2024</title>
+      <link href="/2022/10/28/20270924-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/10/28/20270924-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
